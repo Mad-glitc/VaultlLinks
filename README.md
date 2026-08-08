@@ -1,39 +1,38 @@
 # VaultLinks
 
-<p align="center">
-  <img src="assets/logo.png" width="120"/>
-</p>
+<div align="center">
 
-<h3 align="center">
-Save Everything. Find Anything.
-</h3>
+### 🔗 Save Everything. Find Anything.
 
-<p align="center">
-A premium offline-first Android app for organizing websites, YouTube videos, Instagram reels, GitHub repositories, PDFs, AI prompts, articles, and any URL in one beautiful place.
-</p>
+A premium offline-first Android app to save websites, YouTube videos, Instagram Reels, GitHub repositories, PDFs, AI prompts, articles, and any URL in one beautiful place.
+
+🌐 **Live Website:** https://vaultlinks.vercel.app/
+
+📥 **Download APK:** https://vaultlinks.vercel.app/
+
+⭐ If you like this project, don't forget to star the repository!
+
+</div>
 
 ---
 
 ## ✨ Features
 
-- Save any website or URL
-- YouTube video support
-- Instagram Reel support
-- GitHub repository support
-- AI Prompt storage
-- PDF & article organization
-- Categories
-- Tags
-- Collections
-- Favorites
-- Read Later
-- Smart Search
-- Offline-first
-- Material You
-- Dark & Light Theme
-- Beautiful animations
-- Local storage
-- Privacy focused
+- 🌐 Save any website or URL
+- 🎥 YouTube video support
+- 📸 Instagram Reel support
+- 💻 GitHub repository support
+- 🤖 AI Prompt storage
+- 📂 Collections & Categories
+- 🏷️ Smart Tags
+- ❤️ Favorites
+- 📖 Read Later
+- 🔍 Smart Search
+- 📱 Material You Design
+- 🌙 Dark & Light Theme
+- ⚡ Beautiful animations
+- 💾 Offline-first
+- 🔒 Privacy focused (No Login Required)
 
 ---
 
@@ -55,9 +54,23 @@ A premium offline-first Android app for organizing websites, YouTube videos, Ins
 
 ---
 
+## 🌐 Live Demo
+
+Visit the official website:
+
+**https://vaultlinks.vercel.app/**
+
+From the website you can:
+- Learn about VaultLinks
+- View features
+- Explore the interface
+- Download the latest APK
+
+---
+
 ## 📂 Project Structure
 
-```
+```text
 app/
  ├── data/
  ├── domain/
@@ -74,10 +87,10 @@ app/
 
 ## 🚀 Getting Started
 
-Clone the repository
+Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/vaultlinks.git
+git clone https://github.com/Mad-glitc/VaultLinks.git
 ```
 
 Open the project in Android Studio and run it on an emulator or physical device.
@@ -92,7 +105,7 @@ Open the project in Android Studio and run it on an emulator or physical device.
 - Desktop App
 - Web Version
 - Folder Sharing
-- Widgets
+- Home Screen Widgets
 
 ---
 
@@ -100,7 +113,10 @@ Open the project in Android Studio and run it on an emulator or physical device.
 
 Contributions are welcome.
 
-Fork the repository and submit a Pull Request.
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Open a Pull Request
 
 ---
 
@@ -112,4 +128,6 @@ MIT License
 
 ## ⭐ Support
 
-If you like this project, consider giving it a ⭐ on GitHub.
+If you found this project useful, please consider giving it a ⭐ on GitHub.
+
+🌐 Website: https://vaultlinks.vercel.app/
