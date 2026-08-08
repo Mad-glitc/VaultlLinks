@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.VaultLinks" parent="android:Theme.Material.NoActionBar" />
+    <style name="Theme.VaultLinks.Splash" parent="Theme.VaultLinks">
+        <item name="android:windowBackground">@color/vault_purple_dark</item>
+        <item name="android:statusBarColor">@color/vault_purple_dark</item>
+    </style>
+    <style name="Theme.VaultLinks.Transparent" parent="Theme.VaultLinks">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+</resources>

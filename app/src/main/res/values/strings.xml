@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VaultLinks</string>
+    <string name="widget_quick_save">+ Quick Save</string>
+    <string name="reminder_notification_text">Don\'t forget to organize today\'s discoveries.</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title_1">Save Anything, Instantly</string>
+    <string name="onboarding_desc_1">Reels, repos, articles, threads — share from any app and it lands straight in your vault.</string>
+    <string name="onboarding_title_2">Organize Your Way</string>
+    <string name="onboarding_desc_2">Categories, collections, tags and priorities. Build a knowledge base that actually makes sense to you.</string>
+    <string name="onboarding_title_3">100% Offline. 100% Yours</string>
+    <string name="onboarding_desc_3">No account, no cloud, no tracking. Everything lives on your device, encrypted and under your control.</string>
+    <string name="get_started">Get Started</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_collections">Collections</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Privacy -->
+    <string name="privacy_policy_body">VaultLinks does not collect, transmit, or sell any personal data. All links, notes, and settings are stored exclusively in an encrypted local database on your device. The only network requests VaultLinks ever makes are to fetch a preview (title, description, image, favicon) for a URL you explicitly save. No analytics SDKs, no ad SDKs, and no account system are present in this application.</string>
+</resources>
